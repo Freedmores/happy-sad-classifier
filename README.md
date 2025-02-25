@@ -23,7 +23,15 @@ This project is a simple deep learning-based image classifier that distinguishes
 - Test the classifier on new images.
 
 ## Results
-The model achieves good accuracy in distinguishing between happy and sad expressions. Future improvements can include using a larger dataset and data augmentation for better generalization.
+<p>The model achieves good accuracy in distinguishing between happy and sad expressions. Future improvements can include using a larger dataset and data augmentation for better generalization.</p> 
+<table>
+   <tr>
+      <td><img src="loss.png" width="300px"></td> 
+      <td><img src="accuracy.png" width="300px"></td>
+   </tr>
+</table>
+ 
+
 
 ## Acknowledgments
 This project was inspired by the following YouTube tutorial:
